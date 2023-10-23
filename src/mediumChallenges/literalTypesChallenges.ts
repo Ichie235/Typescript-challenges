@@ -20,7 +20,7 @@ console.log(forBook) // The kite Runner
 //Challenge 4
 //what is the assignment of the code below
 
-// let bool:true = false //Type 'false' is not assignable to type 'true'
+//let bool:true = false //Type 'false' is not assignable to type 'true'
 
 //Challenge 4
 //what is the assignment of the code below
